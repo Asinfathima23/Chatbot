@@ -2,6 +2,8 @@
 
 Upload a PDF and ask questions about it in plain English. The app retrieves the most relevant parts of your document and uses an LLM to answer based on that content — a technique called **RAG (Retrieval-Augmented Generation)**.
 
+![App screenshot](screenshots/demo.png)
+
 ## How it works
 
 1. **Load** — the PDF is loaded and its text extracted.
